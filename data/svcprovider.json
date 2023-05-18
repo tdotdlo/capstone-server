@@ -1,0 +1,211 @@
+[
+	{
+		"id": "79dce8b0-63a2-427d-95a0-b956620e6d52",
+		"name": "Roisin Oneil",
+		"company": "Abc Cuts",
+		"phone": "1-647-222-3578",
+		"city": "Toronto",
+		"service": "hairstylist",
+		"image": "../public/images/roisin.png",
+		"comments": [
+			{
+				"id": "93611733-20bf-4a28-9d4f-d14b98ab32d8",
+				"name": "Hasan Raza",
+				"comment": "Sharon is a lovable personality. She cut my hair the exact way which I wanted to style it.",
+				"timestamp": 1683504832
+			},
+			{
+				"id": "8f661ae5-b8a8-46e6-9a73-310b08542c43",
+				"name": "Sheila Ho",
+				"comment": "She's got the personality that can light up a room!! I would recommend her to all my friends",
+				"timestamp": 1673486032
+			},
+			{
+				"id": "601e5e89-4066-4880-8423-70345c4db059",
+				"name": "Darren Lo",
+				"comment": "Her colour styling skills are on point!",
+				"timestamp": 1668215632
+			}
+		]
+	},
+	{
+		"id": "5060da9d-c775-4ec1-917a-565e5b9efb53",
+		"name": "Rajat Bansal",
+		"company": "Fadeaway",
+		"phone": "1-647-232-7772",
+		"city": "Toronto",
+		"service": "hairstylist",
+		"image": "../public/images/adamGinter.png",
+		"comments": [
+			{
+				"id": "6de15ecc-9975-4f29-a911-3236d6863895",
+				"name": "Joel Choi",
+				"comment": "Rajat's Fades are on point.",
+				"timestamp": 1668474832
+			},
+			{
+				"id": "b18f65ec-a8ee-42c3-8937-82e5bd8830e3",
+				"name": "Eric Chan",
+				"comment": "Rajat is a laidback dude who plays chill music to vibe to when you're getting your fade.",
+				"timestamp": 1662855232
+			},
+			{
+				"id": "d9e1db04-f4ee-11ed-a05b-0242ac120003",
+				"name": "Josh Kim",
+				"comment": "Rajat takes the time and energy to make sure that every fade are what his customers are satisfied with.",
+				"timestamp": 1660695232
+			}
+		]
+	},
+	{
+		"id": "34dcd301-8b9b-472f-9346-8ed06182832d",
+		"name": "Paulo Ribiero",
+		"company": "Home of the Cap",
+		"phone": "1-647-700-772",
+		"city": "Toronto",
+		"service": "barber",
+		"comments": [
+			{
+				"id": "34dcd301-8b9b-472f-9346-8ed06182832d",
+				"name": "Joel Choi",
+				"comment": "Paulo is super laidback. Waterbreaks are a must with him.",
+				"timestamp": 1683504832
+			},
+			{
+				"id": "f77d37fb-489a-41d7-b6e2-085673a797c5",
+				"name": "Eric Chan",
+				"comment": "Paulo likes to keep his schedule. There are times where you cannot complain.",
+				"timestamp": 1683504832
+			},
+			{
+				"id": "1b859a0c-c195-4b60-a87f-16711742e244",
+				"name": "Josh Kim",
+				"comment": "Rajat takes the time and energy to make sure that every fade are what his customers are satisfied with.",
+				"timestamp": 1683504832
+			}
+		]
+	},
+	{
+		"id": "35e6136a-606e-4445-a343-d718040b1b22",
+		"name": "Adam Ginter",
+		"company": "Yeehaw Studios",
+		"phone": "1-647-700-7729",
+		"city": "Toronto",
+		"service": "barber",
+		"image": "../public/image/adam.png",
+		"comments": [
+			{
+				"id": "8005a483-91d6-4b73-bb48-1f07b3a7db8d",
+				"name": "Stephen Choi",
+				"comment": "Adam's beardtrims are on point Fades are on point.",
+				"timestamp": 1676960498
+			},
+			{
+				"id": "9cc9c525-7cad-41cb-925f-408e14632cd8",
+				"name": "Brian Cheung",
+				"comment": "Adam is a laidback who will answer any question that you might have with his process",
+				"timestamp": 1676614898
+			},
+			{
+				"id": "c7589a7f-dcdd-4881-a597-dacd68553150",
+				"name": "Benny Cheung",
+				"comment": "Adam takes the time and energy to make sure that you understand the process",
+				"timestamp": 1675664498
+			}
+		]
+	},
+	{
+		"id": "0a0c12ba-081e-4ad9-9ef2-556c95ba49ab",
+		"name": "Jason Yang",
+		"company": "Meta Studios",
+		"phone": "1-647-300-7721",
+		"city": "Toronto",
+		"service": "barber",
+		"comments": [
+			{
+				"id": "02d86587-704f-4986-afea-89d496535e5d",
+				"name": "Stephen Choi",
+				"comment": "Rajat's Fades are on point.",
+				"timestamp": 1676960498
+			},
+			{
+				"id": "b56d6f21-9129-40bb-be7f-a7efa2fbd7f2",
+				"name": "Brian Cheung",
+				"comment": "Adam is a laidback dude who plays chill music to vibe to when you're getting your fade.",
+				"timestamp": 1676614898
+			},
+			{
+				"id": "b27db4a6-b4fc-4439-a9dd-855499f88b70",
+				"name": "Benny Cheung",
+				"comment": "Jason is a stonecold assassin with the beard",
+				"timestamp": 1675664498
+			}
+		]
+	},
+	{
+		"id": "54ee71cd-4ea6-40ed-9a6e-fafa2a31da01",
+		"name": "Gloria Kim",
+		"company": "Lash Away",
+		"phone": "1-647-789-1111",
+		"city": "Toronto",
+		"service": "eyelashes",
+		"comments": [
+			{
+				"id": "0d3b6e09-6095-4316-9afb-f762c0100e7b",
+				"name": "Kim Ta",
+				"comment": "Gloria's handle lashes extensions are on point.",
+				"timestamp": 1676960498
+			},
+			{
+				"id": "d7b07a0e-cefd-4292-b06d-633c8c216b67",
+				"name": "Somi Lee",
+				"comment": "Jason is a stonecold assassin with the beard",
+				"timestamp": 1675664498
+			}
+		]
+	},
+	{
+		"id": "af6ed3d6-1cae-4fea-8be7-069cf95c24e0",
+		"name": "Julie Huynh",
+		"company": "Lash Away",
+		"phone": "1-647-789-1111",
+		"city": "Toronto",
+		"service": "eyelashes",
+		"comments": [
+			{
+				"id": "3fe62414-2cf0-49b7-9e72-955bced99c6b",
+				"name": "Kim Duong",
+				"comment": "Julie's handle lashes extensions are on point.",
+				"timestamp": 1676960498
+			},
+			{
+				"id": "5bf8de1b-ec99-446a-b6af-6ff136602a64",
+				"name": "Sandra Lee",
+				"comment": "Jason is a stonecold assassin with the beard",
+				"timestamp": 1675664498
+			}
+		]
+	},
+	{
+		"id": "af6ed3d6-1cae-4fea-8be7-069cf95c24e0",
+		"name": "Julia Valendria",
+		"company": "Nails n Things",
+		"phone": "1-647-789-2222",
+		"city": "Toronto",
+		"service": "manicure",
+		"comments": [
+			{
+				"id": "3fe62414-2cf0-49b7-9e72-955bced99c6b",
+				"name": "Mercedes Coleman",
+				"comment": "Gloria's handle lashes extensions are on point.",
+				"timestamp": 1676960498
+			},
+			{
+				"id": "5bf8de1b-ec99-446a-b6af-6ff136602a64",
+				"name": "Helen Lee",
+				"comment": "Jason is a stonecold assassin with the beard",
+				"timestamp": 1675664498
+			}
+		]
+	}
+]
