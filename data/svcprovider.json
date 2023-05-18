@@ -6,6 +6,7 @@
 		"phone": "1-647-222-3578",
 		"city": "Toronto",
 		"service": "hairstylist",
+		"image": "../public/images/roisin.png",
 		"comments": [
 			{
 				"id": "93611733-20bf-4a28-9d4f-d14b98ab32d8",
@@ -34,6 +35,7 @@
 		"phone": "1-647-232-7772",
 		"city": "Toronto",
 		"service": "hairstylist",
+		"image": "../public/images/adamGinter.png",
 		"comments": [
 			{
 				"id": "6de15ecc-9975-4f29-a911-3236d6863895",
@@ -66,13 +68,13 @@
 			{
 				"id": "34dcd301-8b9b-472f-9346-8ed06182832d",
 				"name": "Joel Choi",
-				"comment": "Rajat's Fades are on point.",
+				"comment": "Paulo is super laidback. Waterbreaks are a must with him.",
 				"timestamp": 1683504832
 			},
 			{
 				"id": "f77d37fb-489a-41d7-b6e2-085673a797c5",
 				"name": "Eric Chan",
-				"comment": "Rajat is a laidback dude who plays chill music to vibe to when you're getting your fade.",
+				"comment": "Paulo likes to keep his schedule. There are times where you cannot complain.",
 				"timestamp": 1683504832
 			},
 			{
@@ -90,6 +92,7 @@
 		"phone": "1-647-700-7729",
 		"city": "Toronto",
 		"service": "barber",
+		"image": "../public/image/adam.png",
 		"comments": [
 			{
 				"id": "8005a483-91d6-4b73-bb48-1f07b3a7db8d",
@@ -154,8 +157,52 @@
 				"timestamp": 1676960498
 			},
 			{
-				"id": "af6ed3d6-1cae-4fea-8be7-069cf95c24e0",
-				"name": "Benny Cheung",
+				"id": "d7b07a0e-cefd-4292-b06d-633c8c216b67",
+				"name": "Somi Lee",
+				"comment": "Jason is a stonecold assassin with the beard",
+				"timestamp": 1675664498
+			}
+		]
+	},
+	{
+		"id": "af6ed3d6-1cae-4fea-8be7-069cf95c24e0",
+		"name": "Julie Huynh",
+		"company": "Lash Away",
+		"phone": "1-647-789-1111",
+		"city": "Toronto",
+		"service": "eyelashes",
+		"comments": [
+			{
+				"id": "3fe62414-2cf0-49b7-9e72-955bced99c6b",
+				"name": "Kim Duong",
+				"comment": "Julie's handle lashes extensions are on point.",
+				"timestamp": 1676960498
+			},
+			{
+				"id": "5bf8de1b-ec99-446a-b6af-6ff136602a64",
+				"name": "Sandra Lee",
+				"comment": "Jason is a stonecold assassin with the beard",
+				"timestamp": 1675664498
+			}
+		]
+	},
+	{
+		"id": "af6ed3d6-1cae-4fea-8be7-069cf95c24e0",
+		"name": "Julia Valendria",
+		"company": "Nails n Things",
+		"phone": "1-647-789-2222",
+		"city": "Toronto",
+		"service": "manicure",
+		"comments": [
+			{
+				"id": "3fe62414-2cf0-49b7-9e72-955bced99c6b",
+				"name": "Mercedes Coleman",
+				"comment": "Gloria's handle lashes extensions are on point.",
+				"timestamp": 1676960498
+			},
+			{
+				"id": "5bf8de1b-ec99-446a-b6af-6ff136602a64",
+				"name": "Helen Lee",
 				"comment": "Jason is a stonecold assassin with the beard",
 				"timestamp": 1675664498
 			}

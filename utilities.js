@@ -10,4 +10,8 @@ const getSvcProvider = () => {
 	return convertedFile;
 };
 
-module.exports = getSvcProvider;
+const specialists = (res, provider) => {
+	return res.status(200).send(provider);
+};
+
+module.exports = { getSvcProvider, specialists };
