@@ -1,7 +1,7 @@
 const fileSvc = require('fs');
 
 const allSpecialists = './data/svcprovider.json';
-const userData = './data/adduser.json';
+const userData = './data/users.json';
 
 const getSvcProvider = () => {
 	const allSvcProviders = fileSvc.readFileSync(allSpecialists);
@@ -23,4 +23,8 @@ const getUserData = () => {
 	return allUserData;
 };
 
-module.exports = { getSvcProvider, specialists, getUserData };
+const writeToFile = (usersObj) => {
+	fileSvc.writeFileSync(userData, JSON.stringify(usersObj));
+};
+
+module.exports = { getSvcProvider, specialists, getUserData, writeToFile };

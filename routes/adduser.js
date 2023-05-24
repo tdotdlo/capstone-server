@@ -4,7 +4,7 @@ const fileSvc = require('fs');
 
 const addUserRouter = express.Router();
 
-const { getUserData } = require('../utilities.js');
+const { getUserData, writeToFile } = require('../utilities.js');
 
 addUserRouter.route('/adduser').post((req, res) => {
 	const userSignup = req.body;
@@ -20,7 +20,10 @@ addUserRouter.route('/adduser').post((req, res) => {
 	};
 
 	const allUsers = getUserData();
-	fileSvc.writeFile('../data/adduser.json', JSON.stringify(allUsers));
+	const convertedUsersData = JSON.parse(allUsers);
+	convertedUsersData.push(userDetails);
+	writeToFile(convertedUsersData);
+	res.status(200).send(convertedUsersData);
 });
 
 module.exports = addUserRouter;
